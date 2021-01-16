@@ -1,0 +1,23 @@
+{
+  "name": "kiosbayar",
+  "version": "1.0.0",
+  "description": "apikiosbayar",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adibapay/kiosbayar.git"
+  },
+  "keywords": [
+    "api",
+    "kiosbayar"
+  ],
+  "author": "riki irawan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adibapay/kiosbayar/issues"
+  },
+  "homepage": "https://github.com/adibapay/kiosbayar#readme"
+}
